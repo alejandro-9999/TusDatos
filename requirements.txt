@@ -1,0 +1,10 @@
+fastapi
+fastapi-users
+python-jose
+pymongo
+uvicorn
+crypto
+bcrypt
+pydantic
+selenium
+beautifulsoup4
